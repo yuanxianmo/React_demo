@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.Headers{
+  background: gainsboro;
+  padding: 100px 0;
+  width: 100%;
+  color:#000;
+  font-size: 100px;
+  text-align: center;
+}
